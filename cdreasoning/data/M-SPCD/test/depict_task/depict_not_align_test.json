@@ -1,0 +1,452 @@
+[
+  {
+    "question_id": "000000000001",
+    "image": [
+      "I0001_01_03.png",
+      "I0001_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000002",
+    "image": [
+      "I0153_01_01.png",
+      "I0153_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000003",
+    "image": [
+      "I0384_01_01.png",
+      "I0384_01_02.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, moderate color contrast, moderate overall brightness, and moderate differences in overall color.Dark details show moderate distinctions,light details also have moderate variations."
+  },
+  {
+    "question_id": "000000000004",
+    "image": [
+      "I0311_01_03.png",
+      "I0311_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000005",
+    "image": [
+      "I0171_01_01.png",
+      "I0171_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000006",
+    "image": [
+      "I0174_01_01.png",
+      "I0174_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000007",
+    "image": [
+      "I0298_01_01.png",
+      "I0298_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, moderate overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000008",
+    "image": [
+      "I0202_01_01.png",
+      "I0202_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000009",
+    "image": [
+      "I0029_01_01.png",
+      "I0029_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000010",
+    "image": [
+      "I0158_01_04.png",
+      "I0158_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, moderate overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000011",
+    "image": [
+      "I0430_01_01.png",
+      "I0430_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000012",
+    "image": [
+      "I0269_01_03.png",
+      "I0269_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000013",
+    "image": [
+      "I0114_01_01.png",
+      "I0114_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000014",
+    "image": [
+      "I0160_01_01.png",
+      "I0160_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, slight overall brightness, and moderate differences in overall color.Dark details show moderate distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000015",
+    "image": [
+      "I0231_01_05.png",
+      "I0231_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000016",
+    "image": [
+      "I0313_01_03.png",
+      "I0313_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000017",
+    "image": [
+      "I0029_01_02.png",
+      "I0029_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000018",
+    "image": [
+      "I0354_01_01.png",
+      "I0354_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have moderate variations."
+  },
+  {
+    "question_id": "000000000019",
+    "image": [
+      "I0298_01_02.png",
+      "I0298_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000020",
+    "image": [
+      "I0072_01_01.png",
+      "I0072_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000021",
+    "image": [
+      "I0286_01_01.png",
+      "I0286_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000022",
+    "image": [
+      "I0096_01_01.png",
+      "I0096_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000023",
+    "image": [
+      "I0416_01_01.png",
+      "I0416_01_02.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, moderate differences in brightness contrast, moderate color contrast, slight overall brightness, and moderate differences in overall color.Dark details show moderate distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000024",
+    "image": [
+      "I0407_01_02.png",
+      "I0407_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000025",
+    "image": [
+      "I0033_01_03.png",
+      "I0033_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, moderate color contrast, moderate overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000026",
+    "image": [
+      "I0242_01_03.png",
+      "I0242_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000027",
+    "image": [
+      "I0380_01_01.png",
+      "I0380_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and moderate differences in overall color.Dark details show moderate distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000028",
+    "image": [
+      "I0213_01_04.png",
+      "I0213_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000029",
+    "image": [
+      "I0346_01_02.png",
+      "I0346_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000030",
+    "image": [
+      "I0184_01_01.png",
+      "I0184_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000031",
+    "image": [
+      "I0032_01_02.png",
+      "I0032_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show moderate distinctions,light details also have moderate variations."
+  },
+  {
+    "question_id": "000000000032",
+    "image": [
+      "I0241_01_01.png",
+      "I0241_01_02.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000033",
+    "image": [
+      "I0092_01_03.png",
+      "I0092_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000034",
+    "image": [
+      "I0275_01_02.png",
+      "I0275_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000035",
+    "image": [
+      "I0495_01_02.png",
+      "I0495_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000036",
+    "image": [
+      "I0303_01_01.png",
+      "I0303_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000037",
+    "image": [
+      "I0289_01_02.png",
+      "I0289_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show moderate distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000038",
+    "image": [
+      "I0461_01_01.png",
+      "I0461_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000039",
+    "image": [
+      "I0291_01_01.png",
+      "I0291_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000040",
+    "image": [
+      "I0285_01_02.png",
+      "I0285_01_03.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have moderate variations."
+  },
+  {
+    "question_id": "000000000041",
+    "image": [
+      "I0443_01_02.png",
+      "I0443_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000042",
+    "image": [
+      "I0422_01_02.png",
+      "I0422_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have moderate variations."
+  },
+  {
+    "question_id": "000000000043",
+    "image": [
+      "I0011_01_03.png",
+      "I0011_01_06.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit moderate variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000044",
+    "image": [
+      "I0483_01_01.png",
+      "I0483_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000045",
+    "image": [
+      "I0251_01_02.png",
+      "I0251_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and moderate differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000046",
+    "image": [
+      "I0005_01_03.png",
+      "I0005_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000047",
+    "image": [
+      "I0184_01_02.png",
+      "I0184_01_04.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show moderate distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000048",
+    "image": [
+      "I0106_01_01.png",
+      "I0106_01_02.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, moderate differences in brightness contrast, slight color contrast, moderate overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000049",
+    "image": [
+      "I0257_01_04.png",
+      "I0257_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, slight color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  },
+  {
+    "question_id": "000000000050",
+    "image": [
+      "I0017_01_01.png",
+      "I0017_01_05.png"
+    ],
+    "text": "Please provide a descriptive analysis for the color difference between the two images in terms of the following dimensions: white balance, brightness/contrast, color contrast, overall brightness, overall color, dark details, and bright details. Assign a degree of severity (slight, moderate, severe) for each dimension.",
+    "human_answer": "The two images exhibit slight variations in white balance, slight differences in brightness contrast, moderate color contrast, slight overall brightness, and slight differences in overall color.Dark details show slight distinctions,light details also have slight variations."
+  }
+]
