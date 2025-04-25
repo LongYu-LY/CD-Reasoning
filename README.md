@@ -55,10 +55,13 @@ Pretrained model checkpoints are available for download:
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1VK7MGXd1c0_vMp3YAcABQA) (Extraction code: 6s5d)
 
+## Citation
 
+```bibtex
 @article{wang2024cdreasoning,
   title={Harnessing Multi-modal Large Language Models for Measuring and Interpreting Color Differences},
   author={Wang, Zhihua and Long, Yu and Jiang, Qiuping and Huang, Chao and Cao, Xiaochun},
   journal={IEEE Transactions on Image Processing},
   year={2024}
 }
+```
