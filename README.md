@@ -73,4 +73,4 @@ Pretrained model checkpoints are available for download:
   note={Equal Contribution by Wu, Haoning and Zhang, Zicheng. Project Lead by Wu, Haoning. Corresponding Authors: Zhai, Guangtai and Lin, Weisi.}
 }
 ```
-This repo is based on [Q-Align](https://github.com/Q-Future/Q-Align)[ICML 2024]
+This repo is based on [Q-Align](https://github.com/Q-Future/Q-Align) [ICML 2024]
