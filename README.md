@@ -86,7 +86,7 @@ Pretrained model checkpoints are available for download:
 
 SPCD are available for download:
 
-- [Baidu Netdisk](https://pan.baidu.com/s/1VK7MGXd1c0_vMp3YAcABQA) (Extraction code: 6s5d)
+- [Baidu Netdisk](https://pan.baidu.com/share/init?surl=8bzu-qhpMW3PqLTlVdoZRQ&pwd=txeh) (Extraction code: txeh)
 
   
 ## Citation
