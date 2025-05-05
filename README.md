@@ -8,8 +8,8 @@
   <a href="https://github.com/LongYu-LY/CD-Reasoning">Official Implementation</a>
 
   <div>
-    <a href="[[Zhihua's profile](https://github.com/SMBU-MM)]" target="_blank">Zhihua Wang</a><sup>1</sup>,
-    <a href="[[Yu's profile](https://github.com/LongYu-LY)]" target="_blank">Yu Long</a><sup>2</sup>,
+    <a href="(https://github.com/SMBU-MM)" target="_blank">Zhihua Wang</a><sup>1</sup>,
+    <a href="(https://github.com/LongYu-LY)" target="_blank">Yu Long</a><sup>2</sup>,
     <a href="[Qiuping's profile]" target="_blank">Qiuping Jiang</a><sup>3</sup>,
     <a href="[Chao's profile]" target="_blank">Chao Huang</a><sup>4*</sup>,
     <a href="[Xiaochun's profile]" target="_blank">Xiaochun Cao</a><sup>4</sup>
