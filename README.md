@@ -48,13 +48,47 @@ cd CD-Reasoning
 pip install -e .
 ```
 
+For training, you need to further install additional dependencies as follows:
 
-## Model Checkpoints
+```shell
+pip install -e ".[train]"
+pip install flash_attn --no-build-isolation
+```
+
+## Train
+Full Fine-tuning Training
+```shell
+sh scripts/finetune.sh
+```
+
+Lora Fine-tuning Training
+```shell
+sh scripts/finetune_lora.sh
+
+```
+
+## Evaluation
+- Color Differenct Measure
+```shell
+python cdreasoning/evaluate/cd_score.py --model-path cdreasoning-checkpoint --device cuda:0
+```
+- Color Differenct Description
+
+```shell
+python cdreasoning/evaluate/cd_description.py --model-path cdreasoning-checkpoint --device cuda:0
+```
+
+## Model Checkpoints and SPCD Dataset
 
 Pretrained model checkpoints are available for download:
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1VK7MGXd1c0_vMp3YAcABQA) (Extraction code: 6s5d)
 
+SPCD are available for download:
+
+- [Baidu Netdisk](https://pan.baidu.com/s/1VK7MGXd1c0_vMp3YAcABQA) (Extraction code: 6s5d)
+
+  
 ## Citation
 
 ```bibtex
