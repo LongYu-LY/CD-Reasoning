@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Harnessing Multi-modal Large Language Models for Measuring and Interpreting Color Differences</h1>
+  <h1>[TIP2025]Harnessing Multi-modal Large Language Models for Measuring and Interpreting Color Differences</h1>
 
 <!--  <div style="width: 50%; text-align: center; margin:auto;">
     <img style="width: 50%" src="fig/cd-reasoning-teaser.png">
